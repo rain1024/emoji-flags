@@ -84,8 +84,6 @@ emojiFlags.GB;
 //    }
 ```
 
-Hello 
-
 ## License
 
 MIT © [Matias Singers](http://mts.io)
